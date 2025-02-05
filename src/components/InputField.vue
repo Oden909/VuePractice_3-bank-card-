@@ -30,7 +30,6 @@
     padding: 8px;
     font-size: 16px;
     font-weight: 700;
-    color: #A0A0A0;
     border: 2px solid #ADADAD;
   }
 
